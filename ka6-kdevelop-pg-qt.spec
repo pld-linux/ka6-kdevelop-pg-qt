@@ -5,7 +5,7 @@
 Summary:	The parser-generator from KDevplatform
 Name:		ka6-kdevelop-pg-qt
 Version:	2.4.0
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	https://download.kde.org/%{_state}/%{orgname}/%{version}/src/%{orgname}-%{version}.tar.xz
